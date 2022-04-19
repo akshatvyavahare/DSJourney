@@ -3,7 +3,7 @@
 # there are 2 ways we can do it
 
 # Method 1
-x = r"C:\Users\aksha\Desktop\TextDocument.txt"        # here we have assigned the variable X to the file path - please replace the file path with yours
+x = r"C:\Users\akshat\Desktop\TextDocument.txt"        # here we have assigned the variable X to the file path - please replace the file path with yours
 
 file = open(x, "r")                                   # we specify the open file function and read the file
 
